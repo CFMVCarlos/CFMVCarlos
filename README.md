@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Embedded Systems & IoT Developer | Frontend Enthusiast from Portugal</h3>
+<h3 align="center">Software Engineer from Portugal</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cfmvcarlos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **Sinuta SA**
-- 🌱 Expanding my skills in **Frontend Development**
-- 💬 Ask me about **Embedded Engineering (C/C++, MicroPython, Python)**
+- 🔭 Currently working at **Fibersail**
+- 🌱 Expanding my skills in **Backend Development**
+- 💬 Ask me about **Embedded and Software Engineering (C/C++, MicroPython, Python)**
 - 📫 Reach me at **cfmvcarlos@gmail.com**
 - ⚡ Fun Fact: _I secretly built a bot to automate game actions. Shhhh!_ 🤫
 
