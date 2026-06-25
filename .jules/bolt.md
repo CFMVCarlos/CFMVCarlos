@@ -1,0 +1,3 @@
+## 2024-05-18 - Improve README load times with CDN
+**Learning:** Using `raw.githubusercontent.com` for serving assets in a README file is a performance anti-pattern. GitHub raw content is served with a very short cache-control header (`max-age=300`), which means visitors will frequently redownload all assets on each page view.
+**Action:** Always use a proper CDN like `cdn.jsdelivr.net` for static repository assets referenced in markdown files. By replacing `raw.githubusercontent.com/{user}/{repo}/{branch}/{path}` with `cdn.jsdelivr.net/gh/{user}/{repo}@{branch}/{path}`, assets will be served with global edge caching and a long `max-age` (typically 7 days), dramatically speeding up README load times.
