@@ -1,202 +1,168 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Software Engineer from Portugal</h3>
+<div align="center">
+
+# 🚀 Carlos Valente
+
+### Software Engineer @ [Fibersail](https://fibersail.com) &bull; Porto, Portugal 🇵🇹
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cfmvcarlos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcfmvcarlos&query=%24.public_repos&logo=github&label=Total%20Repositories" alt="Total Repositories" />
+  <a href="https://linkedin.com/in/carlosfmv"><img src="https://img.shields.io/badge/LinkedIn-carlosfmv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.boot.dev/u/carlosfmv"><img src="https://img.shields.io/badge/Boot.dev-carlosfmv-854CE6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Boot.dev" /></a>
+  <a href="https://leetcode.com/carlosfmv"><img src="https://img.shields.io/badge/LeetCode-carlosfmv-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:cfmvcarlos@gmail.com"><img src="https://img.shields.io/badge/Email-cfmvcarlos@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cfmvcarlos&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcfmvcarlos&query=%24.public_repos&logo=github&label=Public%20Repos&color=238636&style=flat-square" alt="Total Repositories" />
 </p>
 
 ---
 
+</div>
+
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **Fibersail**
-- 🌱 Expanding my skills in **Backend Development**
-- 💬 Ask me about **Embedded and Software Engineering (C/C++, MicroPython, Python)**
-- 📫 Reach me at **cfmvcarlos@gmail.com**
-- ⚡ Fun Fact: _I secretly built a bot to automate game actions. Shhhh!_ 🤫
+I am a Software Engineer based in Porto, Portugal, currently building cutting-edge shape-sensing and structural health monitoring solutions at **[Fibersail](https://fibersail.com)**.
+
+My passion spans across low-level **Embedded Systems**, high-concurrency **Backend Architectures (Go & Python)**, and intelligent **Autonomous Agent Systems**. I enjoy designing clean, type-safe software, optimizing algorithmic performance, and bridging hardware sensors with scalable cloud and edge services.
+
+- 🔭 **Current Role:** Software Engineer at **Fibersail**
+- ⚡ **Core Specialties:** Embedded C/C++, MicroPython, Modern Python (3.13+), Go, and Linux systems
+- 🌱 **Continuous Learning:** Exploring distributed systems, agentic AI workflows, and high-performance concurrency
+- 💬 **Ask Me About:** Sensor integration, MicroPython/ESP32, vector game physics, or building fast CLI engines
+- 🎯 **Fun Fact:** I once reverse-engineered and automated an entire puzzle game loop just to benchmark human vs. machine reflexes 🤖
 
 ---
 
-## 🌐 Connect With Me:
+## 🌟 Featured Projects
 
-<ul style="list-style-type: '->'"; padding-left: 0;">
-    <li>
-        <a href="https://linkedin.com/in/carlosfmv" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg"
-                alt="LinkedIn" height="30" width="40" />
-            LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="https://www.leetcode.com/carlosfmv" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg"
-                alt="LeetCode" height="30" width="40" />
-            LeetCode
-        </a>
-    </li>
-</ul>
+Here are a few highlights from my open-source work:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/CFMVCarlos/Asteroids">Asteroids (Space Combat)</a></h3>
+      <p>A modernized arcade space combat game built with Python 3.13+ and Pygame. Features authentic vector inertia drift, tactical 260px forward warp jumps, golden asteroid boss drops, 8 collectible skill power-ups, and a persistent SQLite high scores repository.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.13+-3776AB?logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pygame-2.6.1-green?logo=python&logoColor=white" alt="Pygame" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/CFMVCarlos/sortpulse">sortpulse</a></h3>
+      <p>High-performance sorting algorithm visualizer and benchmarking engine implemented in pure Go. Tests algorithmic throughput, cache efficiency, and step comparisons with ANSI terminal telemetry.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Algorithms-Benchmarking-orange" alt="Benchmarking" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/CFMVCarlos/aiagent">aiagent</a></h3>
+      <p>Autonomous AI coding agent with bounded tool calling, sandboxed filesystem execution, structured validation, and automated unit test coverage with pytest.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-AI%20Agent-3776AB?logo=openai&logoColor=white" alt="AI Agent" />
+        <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white" alt="API" />
+        <img src="https://img.shields.io/badge/pytest-passed-2EAD33?logo=pytest&logoColor=white" alt="pytest" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/CFMVCarlos/pokedexcli">pokedexcli</a></h3>
+      <p>Interactive command-line game application built in Go, featuring RESTful PokéAPI consumption, local TTL memory caching, and interactive exploration repl loop.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-CLI%20Tool-00ADD8?logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/In--Memory%20Cache-blue" alt="Cache" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tools & Technologies:
+## 🛠️ Skills & Technologies
 
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" style="vertical-align:top;">
-                <h3>Programming Languages</h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-original.svg" alt="C"
-                    width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-original.svg"
-                    alt="C++" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg"
-                    alt="JavaScript" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg"
-                    alt="Python" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3>Frontend Development</h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/html5/html5-original.svg"
-                    alt="HTML5" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg"
-                    alt="CSS3" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-original.svg"
-                    alt="Bootstrap" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg"
-                    alt="TailwindCSS" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg"
-                    alt="React" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3>Backend Development</h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg"
-                    alt="Node.js" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg"
-                    alt="FastAPI" width="40" height="40" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" style="vertical-align:top;">
-                <h3> Data Management </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg"
-                    alt="MongoDB" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg"
-                    alt="MySQL" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sqlite/sqlite-original.svg"
-                    alt="SQLite" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> DevOps & Deployment </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg"
-                    alt="Docker" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kubernetes/kubernetes-original.svg"
-                    alt="Kubernetes" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> Version Control </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg"
-                    alt="Git" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg"
-                    alt="GitHub" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/gitlab/gitlab-original.svg"
-                    alt="GitLab" width="40" height="40" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" style="vertical-align:top;">
-                <h3> IDEs and Data Files </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg"
-                    alt="VS Code" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/json/json-original.svg"
-                    alt="JSON" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/yaml/yaml-original.svg"
-                    alt="YAML" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/markdown/markdown-original.svg"
-                    alt="Markdown" width="40" height="40" />
-                <img src="https://www.svgrepo.com/show/375309/csv-document.svg" alt="CSV" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> Data Science & Machine Learning </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original.svg"
-                    alt="Pandas" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg"
-                    alt="Scikit-Learn" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/matplotlib/matplotlib-original.svg"
-                    alt="Matplotlib" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg"
-                    alt="NumPy" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/grafana/grafana-original.svg"
-                    alt="Grafana" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> Testing Frameworks </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jest/jest-plain.svg"
-                    alt="Jest" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/eslint/eslint-original.svg"
-                    alt="ESLint" width="40" height="40" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" style="vertical-align:top;">
-                <h3> Command Line Tools </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bash/bash-original.svg"
-                    alt="Bash" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/putty/putty-original.svg"
-                    alt="PuTTY" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ssh/ssh-original.svg"
-                    alt="SSH" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/powershell/powershell-original.svg"
-                    alt="PowerShell" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/npm/npm-original-wordmark.svg"
-                    alt="NPM" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> Design & Prototyping </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/figma/figma-original.svg"
-                    alt="Figma" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/canva/canva-original.svg"
-                    alt="Canva" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> Browsers </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/chrome/chrome-original.svg"
-                    alt="Chrome" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/firefox/firefox-original.svg"
-                    alt="Firefox" width="40" height="40" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" style="vertical-align:top;">
-                <h3> Cross-Platform Development </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/electron/electron-original.svg"
-                    alt="Electron" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> Embedded Systems </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg"
-                    alt="Raspberry Pi" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-original.svg"
-                    alt="Arduino" width="40" height="40" />
-            </td>
-            <td align="center" style="vertical-align:top;">
-                <h3> Operating Systems </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/windows11/windows11-original.svg"
-                    alt="Windows" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg"
-                    alt="Linux" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ubuntu/ubuntu-original.svg"
-                    alt="Ubuntu" width="40" height="40" />
-            </td>
-        </tr>
-    </table>
+  <table>
+    <tr>
+      <td align="center" width="25%" style="vertical-align:top;">
+        <h4>Languages</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-original.svg" alt="C" width="36" height="36" title="C" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36" title="C++" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/go/go-original.svg" alt="Go" width="36" height="36" title="Go" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" alt="Python" width="36" height="36" title="Python" />
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" title="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" title="TypeScript" />
+      </td>
+      <td align="center" width="25%" style="vertical-align:top;">
+        <h4>Embedded & Systems</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/embeddedc/embeddedc-original.svg" alt="Embedded Systems" width="36" height="36" title="Embedded" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="36" height="36" title="Raspberry Pi" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-original.svg" alt="Arduino / ESP32" width="36" height="36" title="Arduino / ESP32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" title="Linux" />
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bash/bash-original.svg" alt="Bash" width="36" height="36" title="Bash" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ssh/ssh-original.svg" alt="SSH" width="36" height="36" title="SSH" />
+      </td>
+      <td align="center" width="25%" style="vertical-align:top;">
+        <h4>Backend & Data</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36" title="FastAPI" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" title="Node.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36" title="SQLite" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36" title="MySQL" />
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" title="MongoDB" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" title="Docker" />
+      </td>
+      <td align="center" width="25%" style="vertical-align:top;">
+        <h4>Tooling & Quality</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="Git" width="36" height="36" title="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg" alt="GitHub" width="36" height="36" title="GitHub" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36" title="VS Code" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytest/pytest-original.svg" alt="Pytest" width="36" height="36" title="Pytest" />
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/playwright/playwright-original.svg" alt="Playwright" width="36" height="36" title="Playwright" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/grafana/grafana-original.svg" alt="Grafana" width="36" height="36" title="Grafana" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 Stats:
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <!-- Live top languages excluding HTML/CSS boilerplate and setting short cache expiry -->
+        <a href="https://github.com/CFMVCarlos">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cfmvcarlos&layout=compact&hide=html,css,ejs&theme=radical&hide_border=true&title_color=2f80ed&text_color=9fa8da&bg_color=0d1117&cache_seconds=1800" alt="Top Languages" />
+        </a>
+      </td>
+      <td align="center">
+        <!-- GitHub Stats with commits, PRs, and rating -->
+        <a href="https://github.com/CFMVCarlos">
+          <img src="https://github-readme-stats.vercel.app/api?username=cfmvcarlos&show_icons=true&theme=radical&hide_border=true&title_color=2f80ed&text_color=9fa8da&icon_color=ff7b72&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- GitHub Streak Stats -->
+        <a href="https://github.com/CFMVCarlos">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfmvcarlos&theme=radical&hide_border=true&background=0d1117&ring=2f80ed&fire=ff7b72&currStreakLabel=2f80ed" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cfmvcarlos&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cfmvcarlos&show_icons=true&locale=en" alt="GitHub Stats" />
+  <i>"Simplicity is prerequisite for reliability." &bull; Edsger W. Dijkstra</i>
 </p>
