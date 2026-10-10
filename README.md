@@ -29,8 +29,8 @@ My passion spans across low-level **Embedded Systems**, high-concurrency **Backe
 - 🔭 **Current Role:** Software Engineer at **Fibersail**
 - ⚡ **Core Specialties:** Embedded C/C++, MicroPython, Modern Python (3.13+), Go, and Linux systems
 - 🌱 **Continuous Learning:** Exploring distributed systems, agentic AI workflows, and high-performance concurrency
-- 💬 **Ask Me About:** Sensor integration, MicroPython/ESP32, vector game physics, or building fast CLI engines
-- 🎯 **Fun Fact:** I once reverse-engineered and automated an entire puzzle game loop just to benchmark human vs. machine reflexes 🤖
+- 💬 **Ask Me About:** Embedded and Software Engineering (C/C++, MicroPython, Python)
+- ⚡ **Fun Fact:** _I secretly built a bot to automate game actions. Shhhh!_ 🤫
 
 ---
 
@@ -150,19 +150,5 @@ Here are a few highlights from my open-source work:
         </a>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- GitHub Streak Stats -->
-        <a href="https://github.com/CFMVCarlos">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfmvcarlos&theme=radical&hide_border=true&background=0d1117&ring=2f80ed&fire=ff7b72&currStreakLabel=2f80ed" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
-
----
-
-<p align="center">
-  <i>"Simplicity is prerequisite for reliability." &bull; Edsger W. Dijkstra</i>
-</p>
