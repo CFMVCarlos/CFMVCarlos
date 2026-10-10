@@ -104,7 +104,6 @@ Here are a few highlights from my open-source work:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" title="Linux" />
         <br/><br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bash/bash-original.svg" alt="Bash" width="36" height="36" title="Bash" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ssh/ssh-original.svg" alt="SSH" width="36" height="36" title="SSH" />
       </td>
       <td align="center" width="25%" style="vertical-align:top;">
         <h4>Backend & Data</h4>
